@@ -1,15 +1,25 @@
 {
-  "todos": [
-    {
-      "todo": "da",
-      "completed": false,
-      "user": 1,
-      "id": 101
-    },
-    {
-      "todo": "pasin",
-      "completed": true,
-      "id": 102
-    }
-  ]
-}
+    "todos": [
+      {
+        "todo": "Suphakit lomlao KKTECH",
+        "completed": true,
+        "id": 1
+      },
+      {
+        "todo": "Memorize the fifty states and their capitals",
+        "completed": true,
+        "id": 2
+      },
+      {
+        "todo": "Watch a classic movie",
+        "completed": true,
+        "id": 3
+      },
+      {
+        "todo": "Contribute code or a monetary donation to an open-source software project",
+        "completed": true,
+        "id": 4
+      }
+     
+    ]
+  }
