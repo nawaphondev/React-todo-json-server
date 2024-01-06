@@ -1,16 +1,15 @@
 {
-  "posts":[
+  "todos": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "todo": "da",
+      "completed": false,
+      "user": 1,
+      "id": 101
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "todo": "pasin",
+      "completed": true,
+      "id": 102
     }
   ]
 }
